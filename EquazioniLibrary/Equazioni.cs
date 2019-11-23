@@ -8,5 +8,9 @@ namespace EquazioniLibrary
 {
     public class Equazioni
     {
+        public static void IsDetermined(double a; double b)
+        {
+            
+        }
     }
 }
